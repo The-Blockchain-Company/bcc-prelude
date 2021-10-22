@@ -1,0 +1,39 @@
+#TODO flip repos
+{
+    "haskell.nix": {
+        "branch": "master",
+        "description": "Alternative Haskell Infrastructure for Nixpkgs",
+        "homepage": "https://The-Blockchain-Company.github.io/haskell.nix",
+        "owner": "The-Blockchain-Company",
+        "repo": "haskell.nix",
+        "rev": "a49ad889850c0b4e98f629651153e17f0a5e4f59",
+        "sha256": "12r5pl3ri6ijxvwrxaavca2hxg34hy6s3grlv7pz75xp9vh43lwl",
+        "type": "tarball",
+        "url": "https://github.com/The-Blockchain-Company/haskell.nix/archive/a49ad889850c0b4e98f629651153e17f0a5e4f59.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "bcccoin-nix": {
+        "branch": "master",
+        "description": "nix scripts shared across projects",
+        "homepage": null,
+        "owner": "The-Blockchain-Company",
+        "repo": "bcccoin-nix",
+        "rev": "4efc38924c64c23a582c84950c8c25f72ff049cc",
+        "sha256": "0nhwyrd0xc72yj5q3jqa2wl4khp4g7n72i45cxy2rgn9nrp8wqh0",
+        "type": "tarball",
+        "url": "https://github.com/The-Blockchain-Company/bcccoin-nix/archive/4efc38924c64c23a582c84950c8c25f72ff049cc.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "nixpkgs-20.09-darwin",
+        "description": "Nix Packages collection",
+        "homepage": null,
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "c14bb3039f25d463cd24a47d88b4a86b33561788",
+        "sha256": "1mjq4bb8hg890fh39z9hpdndql3571dh8af5civh8qiif34jwpzs",
+        "type": "tarball",
+        "url": "https://github.com/NixOS/nixpkgs/archive/c14bb3039f25d463cd24a47d88b4a86b33561788.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
