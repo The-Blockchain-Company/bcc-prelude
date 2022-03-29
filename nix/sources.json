@@ -12,16 +12,16 @@
         "url": "https://github.com/The-Blockchain-Company/haskell.nix/archive/a49ad889850c0b4e98f629651153e17f0a5e4f59.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
-    "bcccoin-nix": {
+    "tbco-nix": {
         "branch": "master",
         "description": "nix scripts shared across projects",
         "homepage": null,
         "owner": "The-Blockchain-Company",
-        "repo": "bcccoin-nix",
+        "repo": "tbco-nix",
         "rev": "4efc38924c64c23a582c84950c8c25f72ff049cc",
         "sha256": "0nhwyrd0xc72yj5q3jqa2wl4khp4g7n72i45cxy2rgn9nrp8wqh0",
         "type": "tarball",
-        "url": "https://github.com/The-Blockchain-Company/bcccoin-nix/archive/4efc38924c64c23a582c84950c8c25f72ff049cc.tar.gz",
+        "url": "https://github.com/The-Blockchain-Company/tbco-nix/archive/4efc38924c64c23a582c84950c8c25f72ff049cc.tar.gz",
         "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
     },
     "nixpkgs": {

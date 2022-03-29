@@ -7,7 +7,7 @@ description:          Utility types and functions for testing Bcc
 license:              MIT
 license-file:         LICENSE
 author:               The-Blockchain-Company
-maintainer:           operations@bcccoin.io
+maintainer:           operations@blockchain-company.io
 copyright:            2021 The-Blockchain-Company
 category:             Currency
 build-type:           Simple
